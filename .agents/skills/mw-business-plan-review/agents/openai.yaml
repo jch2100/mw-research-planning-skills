@@ -1,0 +1,4 @@
+interface:
+  display_name: "사업 관점 기획 점검"
+  short_description: "기존 조사 계획의 가치와 가정, 근거와 범위를 점검하는 사업 관점 검토"
+  default_prompt: "$mw-business-plan-review 내 조사 계획의 사업상 가치, 근거와 가정, 범위, 다음 행동을 점검해 주세요."

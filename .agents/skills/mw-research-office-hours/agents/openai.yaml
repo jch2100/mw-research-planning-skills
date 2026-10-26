@@ -1,0 +1,4 @@
+interface:
+  display_name: "리서치 기획 인터뷰"
+  short_description: "업무 판단과 근거, 다음 행동을 질문으로 연결하는 리서치 기획 코치"
+  default_prompt: "$mw-research-office-hours 내 업무의 판단에 도움이 되는 리서치를 기획할 수 있도록 중요한 질문부터 하나씩 해주세요."
